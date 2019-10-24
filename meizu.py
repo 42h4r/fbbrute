@@ -2,11 +2,11 @@ import os, sys
 
 print ("\033[1;32mSilahkan Masukkan Nama Admin& Password Admin")
 
-print ("\033[1;32atau silahkan Hubungi HG04 ")
+print ("\033[1;32atau silahkan Hubungi Mr.Hack ")
 
-username = 'Mr_Hunters'      
+username = 'Mr.Hack'      
 
-password = 'Lagi galau'
+password = 'SakitHati'
 
 
 
@@ -30,7 +30,7 @@ def main():
 
 		if pwd == password:
 
-			print "\033[1;32mAlhmdllh sudah masuk juga..", 
+			print "\033[1;32mAllhamdulillah sudah masuk juga..", 
 
 			sys.exit()
 
